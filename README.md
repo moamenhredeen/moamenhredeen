@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Moamen Hraden 😀
 - 👀 I’m interested in Software Architecture
-- 🌱 I’m currently building framework for javafx
+- 🌱 I’m currently building next gen ecommerce platform
+- 📚 I'm intereset in learning more about Rust and low level programming
 - 💞️ I’m looking to collaborate on Opensource Projects
 - 📫 How to reach me : 
   - ✉ email : moamen@hredeen.com
