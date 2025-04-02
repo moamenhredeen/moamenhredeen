@@ -3,4 +3,4 @@
 - 🌱 I’m currently building framework for javafx
 - 💞️ I’m looking to collaborate on Opensource Projects
 - 📫 How to reach me : 
-  - ✉ email : moamenhredeen@gmail.com
+  - ✉ email : moamen@hredeen.com
