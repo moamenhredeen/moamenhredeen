@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Moamen Hraden 😀
 - 👀 I’m interested in Software Architecture
 - 🌱 I’m currently building next gen ecommerce platform
-- 📚 I'm intereset in learning more about Rust and low level programming
-- 💞️ I’m looking to collaborate on Opensource Projects
+- 📚 I'm intereset in learning more about C, Rust and system programming
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me : 
   - ✉ email : moamen@hredeen.com
